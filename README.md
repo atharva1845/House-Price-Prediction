@@ -74,6 +74,8 @@ Run the main Python script to execute the entire workflow:
 
 ```bash
 python house_price_prediction.py
+ ```
+---
 
 This script provides a full pipeline that:
 
