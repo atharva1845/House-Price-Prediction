@@ -141,12 +141,6 @@ Planned enhancements for upcoming iterations include:
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. For more details, see the [LICENSE](LICENSE) file.
-
----
-
 ## Contact
 
 For any questions, suggestions, or collaboration opportunities, please open an issue on GitHub or contact me directly at atharva2004.rajoba@gmail.com .
