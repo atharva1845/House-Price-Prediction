@@ -149,7 +149,7 @@ This project is licensed under the **MIT License**. For more details, see the [L
 
 ## Contact
 
-For any questions, suggestions, or collaboration opportunities, please open an issue on GitHub or contact me directly at [your.email@example.com](mailto:your.email@example.com).
+For any questions, suggestions, or collaboration opportunities, please open an issue on GitHub or contact me directly at atharva2004.rajoba@gmail.com .
 
 ---
 
